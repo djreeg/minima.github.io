@@ -32,7 +32,7 @@ twitter_username:
 github_username:  djreeg
 
 # Custom Theme Build Settings:
-# theme: minima 
+theme: minima 
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
 - jekyll-feed
