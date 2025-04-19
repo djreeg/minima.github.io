@@ -31,14 +31,11 @@ baseurl: /docs/ # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  djreeg
 
-# Default Theme Build Settings:
-# theme: minima 
-# plugins:
-#   - jekyll-feed
-
 # Custom Theme Build Settings:
+# theme: minima 
 remote_theme: pages-themes/leap-day@v0.2.0
 plugins:
+- jekyll-feed
 - jekyll-remote-theme
 
 # Exclude from processing.
